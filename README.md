@@ -1,6 +1,6 @@
 Amazon Sales Dashboard
 
-This project showcases a comprehensive analysis of Amazon sales data. The original dataset contained dirty data, which was meticulously cleaned and transformed using Power Query in Power BI. The project resulted in the creation of five insightful dashboards, each serving a specific analytical purpose.
+This project showcases a comprehensive analysis of Amazon sales data. The original dataset contained dirty data, which was meticulously cleaned and transformed using Power Query in Power BI. The project resulted in the creation of six insightful dashboards, each serving a specific analytical purpose.
 
 Dashboards Overview
 
@@ -12,7 +12,7 @@ Dashboards Overview
 	•	In-depth analysis of Amazon’s international sales.
 	•	Breakdown of sales by country and region.
 	•	Comparative analysis to identify high-performing international markets and growth opportunities.
-	3.	Profit and Loss Analysis Dashboard
+	3.	Profit and Loss Analysis Dashboard (2 Dashboards)
 	•	Comprehensive analysis of Amazon’s profitability.
 	•	Visualization of revenue, costs, and profit margins.
 	•	Identification of areas for cost optimization and profit enhancement.
